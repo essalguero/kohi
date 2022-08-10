@@ -112,4 +112,5 @@
         "empty",
         "custom"
     ],
+    "C_Cpp.errorSquiggles": "Disabled",
 }
